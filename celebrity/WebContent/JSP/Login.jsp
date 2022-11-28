@@ -22,7 +22,7 @@
                           <fieldset class="form-group">
                             <label>Login</label> <input type="text"  class="form-control" name="login" required="required">
                         
-                            <label>Mot de passe</label> <input type="password"  class="form-control" name="password" required="required">
+                            <label>Password</label> <input type="password"  class="form-control" name="password" required="required">
                         </fieldset>
                         <button type="submit" class="btn btn-success">Se Connecter</button>
                         </form>
